@@ -8,12 +8,16 @@ h1 {
 a {
     text-decoration: underline;
 }
-a:visited {
+a:link {
     text-decoration: underline;
+    color: blue
+}
+a:visited {
+    text-decoration: none;
     color: purple;
 }
 a:hover {
-    text-decoration: underline
+    text-decoration: underline;
     font-weight: bold;
 }
 a:active {
