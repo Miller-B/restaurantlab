@@ -1,0 +1,21 @@
+footer, h1 { 
+    text-align:center;
+}
+h1 {
+    font-family: 'Sedgwick Ave Display', cursive;
+}
+
+a {
+    text-decoration: underline;
+}
+a:visited {
+    text-decoration: underline;
+    color: purple;
+}
+a:hover {
+    text-decoration: underline
+    font-weight: bold;
+}
+a:active {
+    text-decoration: none;
+}
